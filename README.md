@@ -1,18 +1,18 @@
- Olá, eu sou Gabriel 👋
+# Olá, eu sou o Gabriel 👋
 
 💻 Desenvolvedor Front-End em formação
 
-Tecnologias:
+🚀 Tecnologias:
 - HTML
 - CSS
 - JavaScript
 
-Atualmente estudando:
-- Manipulação do DOM
+📚 Atualmente estudando:
 - Lógica de programação
+- Manipulação do DOM
 
- Projetos:
+🛠 Projetos:
 - Jogo da velha (Tic-Tac-Toe)
 
-🔗 Meu LinkedIn:
+🔗 LinkedIn:
 https://www.linkedin.com/in/gabriel-henrique-ferreira-souza-183306302
