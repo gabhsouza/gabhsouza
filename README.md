@@ -13,6 +13,7 @@
 
 🛠 Projetos:
 - Jogo da velha (Tic-Tac-Toe)
+- To-Do List (Vanilla JS)
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/gabriel-henrique-ferreira-souza-183306302
