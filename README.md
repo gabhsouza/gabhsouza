@@ -4,10 +4,23 @@ Sou desenvolvedor front-end e estudante de Sistemas de Informação de Belo Hori
 
 Comecei minha jornada na programação estudando desenvolvimento web e, desde então, venho dedicando meu tempo a construir projetos que me desafiem e me permitam evoluir como desenvolvedor. Acredito que aprender na prática é a melhor forma de crescer, por isso estou sempre criando novas aplicações e explorando tecnologias.
 
+
+
+
+
+
+<table>
+  <tr>
+    <td>
 Se você precisa de um desenvolvedor para sua equipe, vamos conversar!<br>
 Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/levordam/) ou por [email](mailto:levordam@gmail.com).
-
 Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
+    </td>
+    <td>
+     <img src="./assets/gatsby.webp" alt="Gatsby" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## Front-end
 
