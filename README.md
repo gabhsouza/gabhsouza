@@ -4,7 +4,7 @@ Sou desenvolvedor front-end e estudante de Sistemas de Informação de Belo Hori
 
 Comecei minha jornada na programação estudando desenvolvimento web e, desde então, venho dedicando meu tempo a construir projetos que me desafiem e me permitam evoluir como desenvolvedor. Acredito que aprender na prática é a melhor forma de crescer, por isso estou sempre criando novas aplicações e explorando tecnologias.
 
-<img src="./assets/gatsby.webp" alt="Gatsby" width="100" align="right">
+<img src="./assets/gatsby.webp" alt="Gatsby" width="150" align="right">
 
 Se você precisa de um desenvolvedor para sua equipe, vamos conversar!
 
