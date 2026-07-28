@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel ✌
 
-Sou desenvolvedor front-end e estudante de Sistemas de Informação de Belo Horizonte, Minas Gerais 🇧🇷.
+Sou desenvolvedor front-end e estudante de Sistemas de Informação. Sou de Belo Horizonte, Minas Gerais 🇧🇷.
 
 Comecei minha jornada na programação estudando desenvolvimento web e, desde então, venho dedicando meu tempo a construir projetos que me desafiem e me permitam evoluir como desenvolvedor. Acredito que aprender na prática é a melhor forma de crescer, por isso estou sempre criando novas aplicações e explorando tecnologias.
 
