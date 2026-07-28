@@ -15,20 +15,28 @@ Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
 <br clear="right">
 
 ## Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&labelColor=black" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black" alt="CSS" />
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&labelColor=black" alt="Sass" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&labelColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/vite-9135FF?style=for-the-badge&logo=vite&labelColor=black" alt="Vite" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="HTML5" />
+      <img src="https://shields.io" alt="CSS" />
+      <img src="https://shields.io" alt="Bootstrap" />
+      <img src="https://shields.io" alt="Sass" />
+      <img src="https://shields.io" alt="JavaScript" />
+      <img src="https://shields.io" alt="React" />
+      <img src="https://shields.io" alt="TypeScript" />
+      <img src="https://shields.io" alt="Vite" />
+    </td>
+  </tr>
+</table>
 
 ## Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&labelColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&labelColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://shields.io" alt="Linux" />
+      <img src="https://shields.io" alt="Git" />
+      <img src="https://shields.io" alt="GitHub" />
+    </td>
+  </tr>
+</table>
