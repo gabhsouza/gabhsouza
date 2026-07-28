@@ -14,16 +14,16 @@ Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
 
 
 ## Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=for-the-badge&labelColor=1572B6&logo=css&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=for-the-badge&labelColor=CC6699&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=for-the-badge&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=for-the-badge&labelColor=000000&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=for-the-badge&labelColor=000000&logo=css&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-232323?style=for-the-badge&labelColor=000000&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=for-the-badge&labelColor=000000&logo=bootstrap&logoColor=7952B3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=for-the-badge&labelColor=000000&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-232323?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=000000)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=for-the-badge&labelColor=646CFF&logo=vite&logoColor=ffe330)
+![React](https://img.shields.io/badge/-React-232323?style=for-the-badge&labelColor=000000&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-232323?style=for-the-badge&labelColor=000000&logo=vite&logoColor=646CFF)
 
 ## Infrastructure
-![Linux](https://img.shields.io/badge/-Linux-232323?style=for-the-badge&labelColor=FCC624&logo=linux&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-232323?style=for-the-badge&labelColor=F05032&logo=git&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-232323?style=for-the-badge&labelColor=000000&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-232323?style=for-the-badge&labelColor=000000&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/github-232323?style=for-the-badge&labelColor=000000&logo=git&logoColor=F05032)
