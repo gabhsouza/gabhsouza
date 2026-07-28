@@ -12,6 +12,8 @@ Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/
 
 Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
 
+<br clear="right">
+
 ## Front-end
  ![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&labelColor=black)
  ![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black) 
