@@ -14,16 +14,15 @@ Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
 
 
 ## Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=for-the-badge&labelColor=000000&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=for-the-badge&labelColor=000000&logo=css&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=for-the-badge&labelColor=000000&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=for-the-badge&labelColor=000000&logo=bootstrap&logoColor=7952B3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=for-the-badge&labelColor=000000&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-232323?style=for-the-badge&labelColor=000000&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=for-the-badge&labelColor=000000&logo=vite&logoColor=646CFF)
-
+![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black)
+![Static Badge](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/vite-9135FF?style=for-the-badge&logo=vite&labelColor=black) 
 ## Infrastructure
-![Linux](https://img.shields.io/badge/-Linux-232323?style=for-the-badge&labelColor=000000&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-232323?style=for-the-badge&labelColor=000000&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/github-232323?style=for-the-badge&labelColor=000000&logo=git&logoColor=F05032)
+![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&labelColor=black)
+![Static Badge](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
