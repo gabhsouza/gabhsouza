@@ -8,7 +8,7 @@ Comecei minha jornada na programação estudando desenvolvimento web e, desde en
 
 Se você precisa de um desenvolvedor para sua equipe, vamos conversar!
 
-Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/levordam/) ou por [email](mailto:levordam@gmail.com).
+Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/hfsgabriel/) ou por [email](mailto:levordam@gmail.com).
 
 Confira também meu [Portfólio](https://gabhsouza.github.io/Profile/) 🌐
 
